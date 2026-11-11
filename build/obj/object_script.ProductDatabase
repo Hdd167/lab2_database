@@ -1,0 +1,12 @@
+obj/main.o
+obj/Record.o
+obj/HashIndex.o
+obj/DatabaseManager.o
+obj/RecordDialog.o
+obj/DeleteDialog.o
+obj/SearchDialog.o
+obj/MainFrame.o
+obj/moc_RecordDialog.o
+obj/moc_DeleteDialog.o
+obj/moc_SearchDialog.o
+obj/moc_MainFrame.o
